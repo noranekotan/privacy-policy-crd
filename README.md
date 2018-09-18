@@ -16,6 +16,14 @@ https://firebase.google.com/policies/analytics
 2. Google AdMob  
 https://developers.google.com/admob/terms
 
+## Purpose of using Android ad ID
+With this application, we will not use the Android advertisement ID except for the following purposes.
+
+1. Analysis of advertisement
+2. User analysis
+
+Also, we do not link advertising IDs to personally identifiable information or explicit permanent device IDs (SSAID, MAC address, IMEI etc) without explicit consent of the user.
+
 ## Disclosure / provision of personal information to a third party
 We will not disclose / provide personal information to third parties unless it falls under any of the following.
 
@@ -35,6 +43,7 @@ shirokuro.cat299@gmail.com
 
 ## 個人情報の利用目的
 本アプリでは、以下の目的以外で個人情報を利用することはありません。
+
 1. 広告配信
 2. 利用状況解析
 
@@ -44,6 +53,14 @@ https://firebase.google.com/terms/analytics
 https://firebase.google.com/policies/analytics  
 2. Google AdMob  
 https://developers.google.com/admob/terms
+
+## Android 広告 IDの利用目的
+本アプリでは、以下の目的以外でAndroid広告IDを利用することはありません。  
+
+1. 広告の分析  
+2. ユーザーの分析
+
+また、広告ID をユーザーの明示的な同意なしに、個人を特定できる情報にリンクしたり、永続的なデバイス ID（SSAID、MAC アドレス、IMEI など）に関連付けたりすることはありません。
 
 ## 個人情報の第三者への開示・提供
 次のいずれかに該当する場合を除き、個人情報を第三者に開示・提供することはありません。  
