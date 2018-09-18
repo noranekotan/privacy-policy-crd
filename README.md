@@ -1,8 +1,8 @@
 
-[Privacy Policy](https://github.com/noranekotan/privacy-policy-crd/blob/master/README.md#Privacy Policy)  
+[Privacy Policy](https://github.com/noranekotan/privacy-policy-crd/blob/master/README.md#PrivacyPolicy)  
 [プライバシーポリシー](https://github.com/noranekotan/privacy-policy-crd/blob/master/README.md#プライバシーポリシー)
 
-# Privacy Policy
+# PrivacyPolicy
 
 ## Purpose of using personal information
 With this application, we do not use personal information for purposes other than the following purposes.
