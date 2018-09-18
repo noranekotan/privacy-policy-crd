@@ -13,7 +13,7 @@ When using personal information, we may use the following external service. For 
 1. Google Analytics for Firebase  
 https://firebase.google.com/terms/analytics  
 https://firebase.google.com/policies/analytics
-2. Google AdMob
+2. Google AdMob  
 https://developers.google.com/admob/terms
 
 ## Disclosure / provision of personal information to a third party
