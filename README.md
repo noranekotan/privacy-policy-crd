@@ -1,5 +1,5 @@
 # プライバシーポリシー
-Privacy Policy(English)
+[Privacy Policy(English)](https://github.com/noranekotan/privacy-policy-crd/blob/master/README.md#個人情報の利用目的)
 
 ## 個人情報の利用目的
 本アプリでは、以下の目的以外で個人情報を利用することはありません。
