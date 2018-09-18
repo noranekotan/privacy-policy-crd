@@ -10,8 +10,8 @@ With this application, we do not use personal information for purposes other tha
 2. Usage analysis
 
 When using personal information, we may use the following external service. For the handling of personal information in external service, please check the terms of service of each external service.
-1. Google Analytics for Firebase
-https://firebase.google.com/terms/analytics
+1. Google Analytics for Firebase  
+https://firebase.google.com/terms/analytics  
 https://firebase.google.com/policies/analytics
 2. Google AdMob
 https://developers.google.com/admob/terms
@@ -27,7 +27,7 @@ We will not disclose / provide personal information to third parties unless it f
 This privacy policy may be revised without notice. Please note.
 
 ## Contact Us
-For inquiries concerning the privacy policy, please contact the following e-mail address.
+For inquiries concerning the privacy policy, please contact the following e-mail address.  
 shirokuro.cat299@gmail.com
 
 
